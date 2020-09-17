@@ -1,6 +1,6 @@
 {
   "name": "@xxx/increment-engine",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Increment a value and return it to function caller",
   "files": [
     "dist"
