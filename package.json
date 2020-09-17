@@ -37,5 +37,10 @@
     "mocha": "^8.1.3",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@sarc-test/increment-engine": "^0.1.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.8"
   }
 }
